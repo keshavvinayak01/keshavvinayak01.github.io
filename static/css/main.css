@@ -191,7 +191,7 @@ blockquote span{
 /*cards area*/
 .project-cards{
 	display:grid;
-	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 	margin:10vh 8vh 1vh 8vh;
 	grid-gap : 60px;
 }
@@ -201,7 +201,6 @@ blockquote span{
 	justify-content: center;
   	align-items: center;
   	font-size: 35px;
-
 	box-shadow: 4px 4px 4px 0 rgba(0,0,0,0.2);
 	transform:scale(0.98);
 	transition : all 0.2s;
@@ -244,6 +243,7 @@ blockquote span{
 	margin:4vh 5vw 5vh 0;
 }
 
+
 a{
 	text-decoration: none;
 	color: inherit;
@@ -253,6 +253,9 @@ a{
 	margin-left:1vw;
 	height:183px;
 	width:275px;
+	justify-content: center;
+  	align-items: center;
+
 }
 .block{
 	margin-bottom:15vh;margin-top:10vh;
