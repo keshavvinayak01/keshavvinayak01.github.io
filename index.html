@@ -18,17 +18,17 @@
 	  <nav id="main">
     <ul>
       <li class="logo"><a href="#">Main</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#projects">projects</a></li>
-      <li><a href="#skills">skills</a></li>
-      <li><a href="#education">education</a></li>
-      <li><a href="#experience">experience</a></li>
+      <li><a href="#about" data-key="ABOUT">About</a></li>
+      <li><a href="#projects" data-key="PROJECTS">projects</a></li>
+      <li><a href="#skills" data-key="SKILLS">skills</a></li>
+      <li><a href="#education" data-key="EDUCATION">education</a></li>
+      <li><a href="#experience" data-key="EXPERIENCE">experience</a></li>
       <!-- <li><a href="#courses">Coursework</a></li> -->
-      <li><a href="#contact">contact</a></li>
+      <li><a href="#contact" data-key="CONTACT">contact</a></li>
     </ul>
   </nav>
 	<div class=".site-wrap">
-		<div class="about" id="about">
+		<div class="block about" id="about" style="margin-top:0px">
 			<h1 class="block-title">ABOUT</h1>
 		<blockquote>
 		  Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things.
@@ -215,24 +215,7 @@
 			</div>
 			</h1>
 		</div>	
-
-	<script>
-    const nav = document.querySelector('#main');
-    let topOfNav = nav.offsetTop;
-
-    function fixNav() {
-      if (window.scrollY >= topOfNav) {
-        document.body.style.paddingTop = nav.offsetHeight + 'px';
-        document.body.classList.add('fixed-nav');
-      } else {
-        document.body.classList.remove('fixed-nav');
-        document.body.style.paddingTop = 0;
-      }
-    }
-
-    window.addEventListener('scroll', fixNav);
-
-	</script>
+	<script src="static/js/main.js"></script>
 	<script src="static/js/scroll.js"></script>
 </body>
 </html>
