@@ -3,10 +3,12 @@ title: "Performance Analysis & Comparison of Intel/AMD CPUs"
 collection: projects
 type: "M.Tech. Project"
 permalink: /projects/performance-analysis-amd-intel
-venue: "CSA, IISc"
+venue: "IISc"
 location: "IISc Bangalore, India"
 date: 2021-11-12
 ---
+           
+
 Summary
 ======
 
