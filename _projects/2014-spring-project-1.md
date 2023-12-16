@@ -7,8 +7,7 @@ venue: "IISc"
 location: "IISc Bangalore, India"
 date: 2021-11-12
 ---
-           
-======
+Part of requirement for the course E0243: Computer Architecture
 
 Summary
 ======
