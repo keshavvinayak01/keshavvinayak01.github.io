@@ -1,11 +1,11 @@
 ---
-title: "Performance Analysis & Comparison of Intel/AMD CPUs"
+title: "Matrix Multiplication"
 collection: projects
 type: "M.Tech. Project"
-permalink: /projects/performance-analysis-amd-intel
+permalink: /projects/checkered-matmul
 venue: "IISc"
 location: "IISc Bangalore, India"
-date: 2021-11-12
+date: 2021-08-12
 ---
 Part of requirement for the course E0243: Computer Architecture
 
