@@ -12,8 +12,8 @@ Part of requirement for the course E0243: Computer Architecture
 Summary
 ======
 
-Optimized Checkered Matrix Multiplication (CMM) using hardware counters on CPU/GPU.
-Achieved a 1017x speed-up using a GTX 1650 and an optimized CMM over the CPU single-threaded version by
-analyzing the bottlenecks in the regular MM algorithm.
+Summarized the performance and micro-architecture of Intel/AMD processors on SPEC FP and INT Benchmarks of 2017 using perf and hardware counters. Used Normalized Cycle count, IPC, Branch Prediction Performance, L2 Data TLB hit rate, L2 cache
+performance, percentage wasted work as metrics for a detailed comparison analysis. Also designed a micro-benchmark
+aimed at maximizing branch mispredictions that achieved a miss rate of 33%. 
 
-The project report can be found [here](https://drive.google.com/drive/folders/1KqN2OlV6ibjpf-c2it9pnQPG42XJzNwm?usp=sharing).
+The project report can be found [here](https://drive.google.com/file/d/1RFz03cZ7xtRhUNPaJImZHPVUc0ea9BkP/view?pli=1).
