@@ -1,7 +1,7 @@
 ---
 title: "HyCache: Hybrid Caching for Accelerating Input Preprocessing Pipelines in DNN training"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/hycache-atc-25
 excerpt: '> Accelerate preprocessing by caching intermediate results across epochs'
 date: 07-07-2025
 venue: 'USENIX ATC'
