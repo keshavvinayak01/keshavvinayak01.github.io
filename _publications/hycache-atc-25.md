@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'accelerate preprocessing by caching intermediate results across epochs'
 date: 07-07-2025
-venue: 'USENIX ATC 2025'
+venue: 'USENIX ATC'
 paperurl: 'https://www.usenix.org/conference/atc25/presentation/vinayak'
 citation: 'Jha, Keshav Vinayak. (2025). &quot;HyCache: Hybrid Caching for Accelerating Input Preprocessing Pipelines in DNN training&quot; <i>USENIX ATC 2025</i>. 1(1).'
 ---
