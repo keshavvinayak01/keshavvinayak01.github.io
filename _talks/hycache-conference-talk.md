@@ -3,9 +3,9 @@ title: "HyCache: Hybrid Caching for Accelerating Input Preprocessing Pipelines i
 collection: talks
 type: "Talk"
 permalink: https://www.usenix.org/conference/atc25/presentation/vinayak
-venue: "Boston, MA, USA"
+venue: "Sheraton Boston, MA, USA"
 date: 07-07-2025
-location: "Sheraton Boston"
+location: ""
 ---
 
 End-to-end deep neural networks' (DNNs) training performance depends not only on the time spent in training the model weights but also on the time spent in loading and preprocessing the training data. Recent advances in GPU hardware have made training substantially faster. As a result, the bottleneck has shifted to the CPU-based input pipeline. This pipeline must fetch and transform each sample through multiple stages before it can be consumed by the GPU.
