@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Member of Technical Staff @ [Cerebras Systems](https://www.cerebras.net/), where I work in the ML Frameworks team based out of Bangalore, India. Previously, I was a grad student @ [Department of Computer Science and Automation](https://www.csa.iisc.ac.in/)<b> , IISc Bangalore</b>, where I was advised by [Prof Arkaprava Basu](https://www.csa.iisc.ac.in/~arkapravab/index.html) and worked at [CSL](https://csl.csa.iisc.ac.in/). My research was primarily focussed in Computer Systems(Architecture, Operating Systems & GPU Memory Subsystem).
 
-At Cerebras, my work revolves around increasing usability and performance of systems for AI training/Inference. To this end, I've worked with MLIR/LLVM, torch-mlir, and python, amongst a lot of other frameworks. Recently, I've been working at compiler support for the underlying architecture at Cerebras, which involves multiple layers of tiered dialects and abstractions, from python, all the way down to the low-level IR supported by the chip.
+
+I'm a Sr. SDE @ [AMD](https://www.amd.com/en.html), where I work with the CodeGen team (Previously, [Nod.AI](https://github.com/nod-ai)) remotely. Previously, I was a grad student @ [Department of Computer Science and Automation](https://www.csa.iisc.ac.in/)<b> , IISc Bangalore</b>, where I was advised by [Prof Arkaprava Basu](https://www.csa.iisc.ac.in/~arkapravab/index.html) and worked at [CSL](https://csl.csa.iisc.ac.in/). My research was primarily focussed in Computer Systems(Architecture, Operating Systems & GPU Memory Subsystem).
+
+At AMD, I'm focusing on high-performance compiler technology for advanced GPU architectures. My work spans system software optimization, dynamic dispatch for modern DNN workloads, and cross-stack integration with PyTorch and MLIR. Most of my work is on open source repositories like [iree](https://github.com/iree-org/iree), [torch-mlir](https://github.com/llvm/torch-mlir), [llvm](https://llvm.org).
+
+Previosly at Cerebras, my work revolved around increasing usability and performance of systems for AI training/Inference. To this end, I've worked with MLIR/LLVM, torch-mlir, and python, amongst a lot of other frameworks. I also worked at compiler support for the underlying architecture at Cerebras, which involves multiple layers of tiered dialects and abstractions, from python, all the way down to the low-level IR supported by the chip.
 
 At IISc, My thesis was about accelerating pre-processing pipelines for Deep Neural Network Training tasks to alleviate system bottlenecks (CPU / Caches / Memory / Disk) and attaining a speedup in end-to-end training. I built a Library on top of [DALI](https://developer.nvidia.com/dali) that automatically determines the underlying system properties for potential speedup opportunities, and builds pre-processing pipelines that are upto 10.5x faster that vanilla DALI pipelines. With these accelerated pre-processing pipelines, I was able to attain upto 67% end-to-end training with an H100 GPU.
 
