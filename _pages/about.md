@@ -14,7 +14,7 @@ I'm a Sr. SDE @ [AMD](https://www.amd.com/en.html), where I work with the CodeGe
 
 At AMD, I'm focusing on high-performance compiler technology for advanced GPU architectures. My work spans system software optimization, dynamic dispatch for modern DNN workloads, and cross-stack integration with PyTorch and MLIR. Most of my work is on open source repositories like [iree](https://github.com/iree-org/iree), [torch-mlir](https://github.com/llvm/torch-mlir), [llvm](https://llvm.org).
 
-My work sits between PyTorch-level programs and low-level GPU execution. I work on operator lowering, dispatch formation and fusion, vectorization, GPU codegen, attention/SDPA/FlexAttention support, benchmarking, and correctness issues that show up when real model workloads move through the compiler stack. I have also contributed upstream MLIR/LLVM changes for vector, affine, and ROCDL/AMDGPU support.
+My work sits between PyTorch-level programs and low-level GPU execution. I work on operator lowering, dispatch formation and fusion, vectorization, GPU codege. I have also contributed upstream MLIR/LLVM changes for vector, affine, and ROCDL/AMDGPU support.
 
 Previously at Cerebras, my work revolved around increasing usability and performance of systems for AI training/Inference. To this end, I've worked with MLIR/LLVM, torch-mlir, and python, amongst a lot of other frameworks. I also worked at compiler support for the underlying architecture at Cerebras, which involves multiple layers of tiered dialects and abstractions, from python, all the way down to the low-level IR supported by the chip.
 
