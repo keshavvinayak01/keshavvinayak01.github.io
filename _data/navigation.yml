@@ -10,7 +10,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Resume_V2_June_PhD.pdf
+    target: _blank
   
   - title: "Projects"
     url: /projects/

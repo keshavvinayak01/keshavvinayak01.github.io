@@ -1,1 +1,2 @@
 title	type	url_slug	venue	date	location	talk_url	description
+Mitigating GPU Bank Conflicts with Swizzling	Internal Talk	gpu-bank-conflicts-swizzling	AMD	2026-07-06	Internal	/files/gpu-bank-conflicts-swizzling-amd-internal-2026.pdf	Internal AMD technical talk on GPU LDS/shared-memory bank conflicts, padding, XOR swizzling, and the IREE swizzle PR, with MI300X evaluation and instruction-level trace analysis.
